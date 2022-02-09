@@ -11,11 +11,11 @@
 ### Connect with me:
 
 
-[![website](./img/facebook.jpg)](https://www.facebook.com/mohamad.nabaa.3)
+[![website](<img align="left" alt="facebook" width="26px" src="facebook.jgp" style="padding-right:10px;" />)](https://www.facebook.com/mohamad.nabaa.3)
 &nbsp;&nbsp;
-[![website](./img/linkedin.png)](https://www.linkedin.com/in/mohamad-nabaa-819000231)
+[![website](<img align="left" alt="linkedin" width="26px" src="./img/linkedin.png" style="padding-right:10px;" />)](https://www.linkedin.com/in/mohamad-nabaa-819000231)
 &nbsp;&nbsp;
-[![website](./img/instagram.jpg)](https://www.instagram.com/mohamad_nabaa)
+[![website](<img align="left" alt="instagram" width="26px" src="instagram.jgp" style="padding-right:10px;" />)](https://www.instagram.com/mohamad_nabaa)
 
 ### Languages and Tools:
 
