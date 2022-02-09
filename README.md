@@ -12,9 +12,9 @@
 
 [![website](./img/facebook.jpg)](https://www.facebook.com/mohamad.nabaa.3)
 &nbsp;&nbsp;
-[![website](./img/linkedin.png)](https://www.linkedin.com/in/mohamad-nabaa-819000231)
+[![website](./img/linkedin.jpg)](https://www.linkedin.com/in/mohamad-nabaa-819000231)
 &nbsp;&nbsp;
-[![website](./img/instagram.jpg)](https://www.instagram.com/mohamad_nabaa)
+[![website](./img/instagram.png)](https://www.instagram.com/mohamad_nabaa)
 
 ### Languages and Tools:
 
