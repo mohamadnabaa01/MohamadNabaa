@@ -4,8 +4,10 @@
 ## I am a Computer Science Student in Lebanese American University (LAU)!
 
 - 🌱 I'm currently learning programming development, such as Mobile, Web, and Game Development!
-- 👯  I'm currently working on improving my programming skills!
+- 👯 I'm currently working on improving my programming skills!
 - 🥅 Future Goal: Become a successful programmer in my domain!
+- 👨‍🎓 2022 Goal: Graduate in Fall 2022 with BS of Computer Science!
+- 👨‍💻 I'm looking forward to do my Internship in Summer 2022! 
 - ⚡ Fun fact: I love to draw and play video games
 
 ### Connect with me:
